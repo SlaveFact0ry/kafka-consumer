@@ -319,7 +319,7 @@ poetry.toml
 
 # LSP config files
 pyrightconfig.json
-.idea/
+/.idea/
 ### VisualStudioCode ###
 .vscode/*
 !.vscode/settings.json
